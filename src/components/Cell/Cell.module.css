@@ -1,0 +1,5 @@
+.cell {
+  aspect-ratio: 1;
+  outline: 1px solid darkslategrey;
+  text-transform: uppercase;
+}
