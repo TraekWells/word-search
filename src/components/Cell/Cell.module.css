@@ -1,5 +1,10 @@
 .cell {
+  display: grid;
+  place-content: center;
+  height: 2rem;
+  width: 2rem;
   aspect-ratio: 1;
-  outline: 1px solid darkslategrey;
+  font-size: 1.4rem;
+  outline: 1px solid darkslategray;
   text-transform: uppercase;
 }
